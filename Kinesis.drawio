@@ -19,10 +19,15 @@
           <mxGeometry x="103.4" y="77" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="nDxtczCSto2qQ4ZSunCe-3" value="KPL&lt;br&gt;(Kinesis Producer Library)" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.java;gradientColor=#DFDEDE" parent="1" vertex="1">
-          <mxGeometry x="70.00000000000001" y="290" width="102.4" height="102.4" as="geometry" />
+          <mxGeometry x="86.70000000000002" y="289" width="102.4" height="102.4" as="geometry" />
         </mxCell>
         <mxCell id="nDxtczCSto2qQ4ZSunCe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nDxtczCSto2qQ4ZSunCe-2" target="nDxtczCSto2qQ4ZSunCe-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="113" />
+              <mxPoint x="250" y="242" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nDxtczCSto2qQ4ZSunCe-7" value="Library" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nDxtczCSto2qQ4ZSunCe-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0628" y="-3" relative="1" as="geometry">
@@ -30,7 +35,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nDxtczCSto2qQ4ZSunCe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nDxtczCSto2qQ4ZSunCe-3" target="nDxtczCSto2qQ4ZSunCe-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+              <mxPoint x="250" y="242" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nDxtczCSto2qQ4ZSunCe-6" value="SDK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nDxtczCSto2qQ4ZSunCe-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3269" y="-1" relative="1" as="geometry">
