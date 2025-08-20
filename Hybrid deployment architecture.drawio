@@ -37,7 +37,7 @@
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-3" value="Log" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.log;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LsPhp4MZFCUfVBvJyY4g-4" value="Monitoring" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-4" value="Monitoring&lt;br&gt;Traceing" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
           <mxGeometry x="695" y="410" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="LsPhp4MZFCUfVBvJyY4g-1" target="LsPhp4MZFCUfVBvJyY4g-3" edge="1">
