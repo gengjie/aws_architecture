@@ -35,7 +35,7 @@
           <mxGeometry x="498.59" y="50" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-3" value="Log" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.log;" parent="1" vertex="1">
-          <mxGeometry x="850" y="151" width="120" height="70" as="geometry" />
+          <mxGeometry x="865" y="151" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-4" value="Monitoring&lt;br&gt;Traceing" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
           <mxGeometry x="880" y="460" width="90" height="90" as="geometry" />
