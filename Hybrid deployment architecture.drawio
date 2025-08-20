@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram name="Page-1" id="sBCqyrCTURnRi5GUUwl7">
+    <mxGraphModel dx="1938" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-1" target="LsPhp4MZFCUfVBvJyY4g-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="339" />
+              <mxPoint x="550" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-1" value="EKS Cluster" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-2" target="LsPhp4MZFCUfVBvJyY4g-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="170" />
+              <mxPoint x="550" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-2" target="LsPhp4MZFCUfVBvJyY4g-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="170" />
+              <mxPoint x="550" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-2" value="TSC Cluster" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+          <mxGeometry x="397.34" y="130" width="83.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-3" value="Log" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.log;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-4" value="Monitoring" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="625" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-1" target="LsPhp4MZFCUfVBvJyY4g-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="339" />
+              <mxPoint x="550" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-9" target="LsPhp4MZFCUfVBvJyY4g-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-9" value="Git Repository" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.git_repository;" vertex="1" parent="1">
+          <mxGeometry y="222" width="60" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-10" value="CICD Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="78" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-10" target="LsPhp4MZFCUfVBvJyY4g-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="261" />
+              <mxPoint x="340" y="172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsPhp4MZFCUfVBvJyY4g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsPhp4MZFCUfVBvJyY4g-10" target="LsPhp4MZFCUfVBvJyY4g-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="261" />
+              <mxPoint x="340" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
