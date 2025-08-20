@@ -47,7 +47,7 @@
           <mxGeometry x="70" y="292" width="60" height="78" as="geometry" />
         </mxCell>
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-10" value="CICD Pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="1" vertex="1">
-          <mxGeometry x="260" y="310" width="78" height="42" as="geometry" />
+          <mxGeometry x="210" y="311" width="74.29" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LsPhp4MZFCUfVBvJyY4g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LsPhp4MZFCUfVBvJyY4g-10" target="LsPhp4MZFCUfVBvJyY4g-1" edge="1">
           <mxGeometry relative="1" as="geometry">
