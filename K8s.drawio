@@ -4,29 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-1" value="&lt;b&gt;Kubernetes&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;verticalAlign=top;rounded=1;arcSize=6;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="100" width="420" height="420" as="geometry" />
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-1" value="&lt;b&gt;Kubernetes&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;verticalAlign=top;rounded=1;arcSize=6;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="100" width="450" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-2" value="Control Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;verticalAlign=top;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="90" y="140" width="380" height="150" as="geometry" />
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-2" value="Control Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;verticalAlign=top;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="140" width="410" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-3" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;verticalAlign=top;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-3" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;verticalAlign=top;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="380" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-4" value="Kube Proxy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-4" value="Kube Proxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-5" value="Kubelet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-5" value="Kubelet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-6" value="API GW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-6" value="API GW" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-7" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-7" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="190" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGEPYzfLsvKDmyo7JmHo-8" value="Etcd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGEPYzfLsvKDmyo7JmHo-8" value="Etcd" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSp_lFE6W2IhTVD6vnqM-1" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
