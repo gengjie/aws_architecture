@@ -10,13 +10,13 @@
         <mxCell id="62GbrE6TORd7xZNesTIv-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="62GbrE6TORd7xZNesTIv-3" value="CloudCore" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=4;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="62GbrE6TORd7xZNesTIv-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CloudCore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="175" y="110" width="245" height="210" as="geometry" />
         </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-4" value="KubeEdge Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="310" y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="62GbrE6TORd7xZNesTIv-8" value="EdgeCore" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="62GbrE6TORd7xZNesTIv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EdgeCore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="100" y="355" width="520" height="275" as="geometry" />
         </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-9" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.88)&quot; face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;Cloud Hub&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.88)&quot; face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;(WebSocket Server)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
