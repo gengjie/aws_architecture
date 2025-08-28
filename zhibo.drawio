@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="bSFZUdOF6E84jAVo828M">
-    <mxGraphModel>
+    <mxGraphModel dx="916" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A502C23WNemQoPgt_eVU-1" value="Media Processor Cluster" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="480" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="A502C23WNemQoPgt_eVU-3" value="SRS Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A502C23WNemQoPgt_eVU-4" value="Codec Processor&lt;br&gt;Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="170" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
