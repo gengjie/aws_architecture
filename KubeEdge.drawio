@@ -55,7 +55,7 @@
         <mxCell id="62GbrE6TORd7xZNesTIv-13" value="K8s API Server" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="485" y="130" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kMom09rq4pYjh6CpPgFS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62GbrE6TORd7xZNesTIv-15" target="62GbrE6TORd7xZNesTIv-10">
+        <mxCell id="kMom09rq4pYjh6CpPgFS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="62GbrE6TORd7xZNesTIv-15" target="62GbrE6TORd7xZNesTIv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="350" />
