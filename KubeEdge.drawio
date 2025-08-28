@@ -10,7 +10,7 @@
         <mxCell id="62GbrE6TORd7xZNesTIv-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="62GbrE6TORd7xZNesTIv-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CloudCore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=4;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="62GbrE6TORd7xZNesTIv-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CloudCore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;arcSize=4;verticalAlign=top;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="175" y="110" width="245" height="210" as="geometry" />
         </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-4" value="KubeEdge Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
