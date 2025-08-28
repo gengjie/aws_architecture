@@ -14,7 +14,7 @@
           <mxGeometry x="175" y="110" width="245" height="210" as="geometry" />
         </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-4" value="KubeEdge Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="310" y="30" width="230" height="30" as="geometry" />
+          <mxGeometry x="375" y="30" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EdgeCore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;arcSize=0;verticalAlign=top;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="100" y="355" width="520" height="275" as="geometry" />
