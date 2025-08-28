@@ -22,13 +22,8 @@
         <mxCell id="62GbrE6TORd7xZNesTIv-9" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.88)&quot; face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.6px; letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;Cloud Hub&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.88)&quot; face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;(WebSocket Server)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62GbrE6TORd7xZNesTIv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="62GbrE6TORd7xZNesTIv-10" target="62GbrE6TORd7xZNesTIv-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="370" />
-              <mxPoint x="250" y="370" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="62GbrE6TORd7xZNesTIv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;" parent="1" source="62GbrE6TORd7xZNesTIv-10" target="62GbrE6TORd7xZNesTIv-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kMom09rq4pYjh6CpPgFS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62GbrE6TORd7xZNesTIv-10" target="62GbrE6TORd7xZNesTIv-27">
           <mxGeometry relative="1" as="geometry" />
