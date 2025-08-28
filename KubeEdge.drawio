@@ -124,6 +124,9 @@
         <mxCell id="62GbrE6TORd7xZNesTIv-25" value="sqlite" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.980804443359375;" parent="1" vertex="1">
           <mxGeometry x="300" y="570" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62GbrE6TORd7xZNesTIv-26" target="kMom09rq4pYjh6CpPgFS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="62GbrE6TORd7xZNesTIv-26" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot; color=&quot;rgba(0, 0, 0, 0.88)&quot;&gt;&lt;span style=&quot;font-size: 13.6px; letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;EdgeD&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.88), rgb(237, 237, 237)); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; letter-spacing: 0.25px; white-space-collapse: preserve-breaks; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;&lt;font face=&quot;Roboto, sans-serif&quot; color=&quot;#1c1e21&quot;&gt;LW kubelet&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgba(175, 184, 193, 0.2), rgb(73, 81, 89)); font-size: 13.6px; letter-spacing: 0.25px; white-space-collapse: preserve-breaks; color: light-dark(rgba(0, 0, 0, 0.88), rgb(237, 237, 237)); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="570" width="100" height="40" as="geometry" />
         </mxCell>
@@ -209,6 +212,24 @@
               <mxPoint x="400" y="596" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-23" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=cm" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-24" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=secret" vertex="1" parent="1">
+          <mxGeometry x="175" y="690" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-25" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="260" y="690" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="670" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="20" y="340.01" width="790" height="479.99" as="geometry" />
+        </mxCell>
+        <mxCell id="kMom09rq4pYjh6CpPgFS-31" value="边缘设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="660" y="770" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
