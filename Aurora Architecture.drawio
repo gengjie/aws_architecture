@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j5r5vbufTEwcB4HRGYw3-1" value="APP/Client" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="j5r5vbufTEwcB4HRGYw3-1" value="APP/Client" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j5r5vbufTEwcB4HRGYw3-2" value="Writer Node" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="j5r5vbufTEwcB4HRGYw3-2" value="Writer Node" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;verticalAlign=top;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="j5r5vbufTEwcB4HRGYw3-3" value="Reader Node" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="j5r5vbufTEwcB4HRGYw3-3" value="Reader Node" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;verticalAlign=top;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="390" y="190" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="j5r5vbufTEwcB4HRGYw3-4" value="PostgreSQL Runtime&lt;br&gt;(Minor Updated)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="420" y="400" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5r5vbufTEwcB4HRGYw3-11" value="Aurora Distributed Shared Storage&lt;br&gt;(Multi-AZ Quorum-Based SSD-Backend)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="120" y="570" width="510" height="320" as="geometry" />
+          <mxGeometry x="120" y="560" width="510" height="310" as="geometry" />
         </mxCell>
         <mxCell id="j5r5vbufTEwcB4HRGYw3-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.225;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j5r5vbufTEwcB4HRGYw3-1" target="j5r5vbufTEwcB4HRGYw3-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -112,16 +112,16 @@
         <mxCell id="j5r5vbufTEwcB4HRGYw3-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="800" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j5r5vbufTEwcB4HRGYw3-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.478;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.218;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j5r5vbufTEwcB4HRGYw3-2" target="j5r5vbufTEwcB4HRGYw3-11">
+        <mxCell id="j5r5vbufTEwcB4HRGYw3-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.478;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j5r5vbufTEwcB4HRGYw3-2" target="j5r5vbufTEwcB4HRGYw3-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="530" as="sourcePoint" />
             <mxPoint x="230" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j5r5vbufTEwcB4HRGYw3-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="j5r5vbufTEwcB4HRGYw3-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.72;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="j5r5vbufTEwcB4HRGYw3-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="480" as="sourcePoint" />
-            <mxPoint x="509" y="568" as="targetPoint" />
+            <mxPoint x="510" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j5r5vbufTEwcB4HRGYw3-46" value="Segment&lt;br&gt;10GB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
