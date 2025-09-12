@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.0">
   <diagram name="Page-1" id="AEaiNsPoZy7A3CoYCXqz">
-    <mxGraphModel dx="1164" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UQWZrnB4f2-p6ij5z19z-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AgentScope&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UQWZrnB4f2-p6ij5z19z-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AgentScope&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UQWZrnB4f2-p6ij5z19z-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Concept&lt;/h1&gt;&lt;p&gt;&lt;b&gt;State&lt;/b&gt;&lt;br&gt;表示对象运行时的快照&lt;/p&gt;&lt;p&gt;&lt;b&gt;Message&lt;/b&gt;&lt;br&gt;核心数据结构：&lt;br&gt;1. Agent之间交换信息&lt;br&gt;2. UI显示信息&lt;br&gt;3. 记忆中存储信息&lt;br&gt;4. AgentScope与不同LLM AP之间的统一媒介&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tool&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Prompt Formatter&lt;/b&gt;&lt;br&gt;负责将消息对象转换成LLM API所需格式&lt;/p&gt;&lt;p&gt;&lt;b&gt;Long-Term Memory&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="360" height="420" as="geometry" />
+        <mxCell id="UQWZrnB4f2-p6ij5z19z-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Concept&lt;/h1&gt;&lt;p&gt;&lt;b&gt;State&lt;/b&gt;&lt;br&gt;表示对象运行时的快照&lt;/p&gt;&lt;p&gt;&lt;b&gt;Message&lt;/b&gt;&lt;br&gt;核心数据结构：&lt;br&gt;1. Agent之间交换信息&lt;br&gt;2. UI显示信息&lt;br&gt;3. 记忆中存储信息&lt;br&gt;4. AgentScope与不同LLM AP之间的统一媒介&lt;/p&gt;&lt;p&gt;&lt;b&gt;Tool&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Prompt Formatter&lt;/b&gt;&lt;br&gt;负责将消息对象转换成LLM API所需格式&lt;/p&gt;&lt;p&gt;&lt;b&gt;Long-Term Memory&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="100" width="260" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
